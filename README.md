@@ -4,7 +4,7 @@ This site contains the examples and complementary material for the paper titled 
 Here is a comparision of the Context-Aware Bayesian Tensor Factorization (CABTF) method and benchmarks:
 
 <img src='color map.png' width="400" height="20" >
-<img src='comparison.gif' width="700" height="2000" />
+<img src='comparison.gif' width="700" height="1700" />
 
 ## Contents
 

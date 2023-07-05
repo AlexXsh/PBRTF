@@ -3,7 +3,7 @@ This is the complementary material for paper titled "Robust Unsupervised Video F
 Here are examples of the Context-Aware Bayesian Tensor Factorization (CABTF) method:
 
 <img src='color map.png' width="600" height="30" >
-![](comparison.gif)
+<img src='comparison.gif' />
 
 ## Run Model
 

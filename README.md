@@ -5,7 +5,7 @@ Here is a comparision of the Context-Aware Bayesian Tensor Factorization (CABTF)
 
 <img src='color map.png' width="400" height="20" >
 <img src='original.gif'/>
-<img src='GT.gif'/>
+<img src='GT.gif'/> 
 <img src='PRCA.gif'/>
 <img src='PRMF.gif'/>
 <img src='DECOLOR.gif'/>

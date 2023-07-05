@@ -8,5 +8,5 @@ Here is a comparision of the Context-Aware Bayesian Tensor Factorization (CABTF)
 
 ## Contents
 
- - `Complementary Material`: proofs of Propositions, detailed derivations, and extra explanation for Fig.3.
+ - `Complementary Material`: proofs of propositions, detailed derivations of posteriors, and extra explanation for Fig.3.
 

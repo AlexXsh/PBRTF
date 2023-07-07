@@ -9,5 +9,5 @@ Here is a video example to illustrate the comparison of the Context-Aware Bayesi
 
 ## Contents
 
- - `Supplementary Material`: proofs of propositions, derivations of updated posterior distributions in Section II-C, and justification for Fig. 3.
+ - `Supplementary Material.pdf`: proofs of propositions, derivations of updated posterior distributions in Section II-C, and justification for Fig. 3.
 
